@@ -107,4 +107,40 @@ export const aliados = {
       },
     ],
   },
+  solicitud: {
+    titulo: "Quiero ser aliado",
+    descripcion:
+      "Queremos conocer tu organización y explorar posibles oportunidades de trabajo conjunto en proyectos, consultorías, formación, voluntariado y otras iniciativas de interés común.",
+    formulario: {
+      nombre: "Nombre completo*",
+      cargo: "Cargo",
+      organizacion: "Organización",
+      correo: "Correo*",
+      telefono: "Teléfono / WhatsApp*",
+      telefonoEjemplo: "+57",
+      tipoAlianza: "Tipo de alianza*",
+      // TEMPORAL: opciones tomadas de las modalidades de alianza; confirmar con la fundación.
+      tiposAlianza: [
+        "Recursos financieros",
+        "Voluntariado especializado",
+        "Donación de materiales",
+        "Formación y apoyo técnico",
+        "Medios de difusión y visibilización",
+      ],
+      mensaje: "Mensaje",
+      consentimiento: {
+        antes: "Acepto la política de ",
+        enlace: "tratamiento de datos personales.",
+        href: "#",
+      },
+      enviar: "Enviar",
+      // TEMPORAL: mensajes de error no definidos en el diseño.
+      errores: {
+        requerido: "Este campo es obligatorio.",
+        correo: "Escribe un correo válido.",
+        telefono: "Escribe un teléfono válido.",
+        consentimiento: "Debes aceptar la política para continuar.",
+      },
+    },
+  },
 } as const;
