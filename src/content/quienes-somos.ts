@@ -83,14 +83,14 @@ export const quienesSomos = {
         descripcion:
           "Conoce a las personas que hacen posible la transformación.",
         boton: "Ver equipo",
-        href: "#",
+        href: "/equipo",
       },
       {
         titulo: "Aliados",
         descripcion:
           "Universidades, empresas e iglesias que caminan con nosotros.",
         boton: "Ver aliados",
-        href: "#",
+        href: "/aliados-estrategicos",
       },
     ],
   },
