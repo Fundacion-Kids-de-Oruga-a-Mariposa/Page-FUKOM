@@ -76,4 +76,35 @@ export const aliados = {
       },
     ],
   },
+  contribucion: {
+    titulo: "Formas de aliarse",
+    descripcion:
+      "Buscamos alianzas en sectores como: educación, tecnología, ingeniería, arte y cultura, desarrollo social, cooperación internacional, sector empresarial e iglesias",
+    pregunta: "¿Cómo puede contribuir tu empresa?",
+    modalidades: [
+      {
+        icono: { src: "/images/aliados/modalidades/recursos.svg", ancho: 56 },
+        texto: "RECURSOS\nFINANCIEROS",
+      },
+      {
+        icono: {
+          src: "/images/aliados/modalidades/voluntariado.svg",
+          ancho: 42,
+        },
+        texto: "VOLUNTARIADO\nESPECIALIZADO",
+      },
+      {
+        icono: { src: "/images/aliados/modalidades/materiales.svg", ancho: 56 },
+        texto: "DONACIÓN DE\nMATERIALES",
+      },
+      {
+        icono: { src: "/images/aliados/modalidades/formacion.svg", ancho: 51 },
+        texto: "FORMACIÓN Y\nAPOYO TÉCNICO",
+      },
+      {
+        icono: { src: "/images/aliados/modalidades/difusion.svg", ancho: 66 },
+        texto: "MEDIOS DE DIFUSIÓN\nY VISIBILIZACIÓN",
+      },
+    ],
+  },
 } as const;

@@ -2,6 +2,7 @@ import Hero from "@/features/aliados/Hero";
 import NuestrosAliados from "@/features/aliados/NuestrosAliados";
 import Destacado from "@/features/aliados/Destacado";
 import Beneficios from "@/features/aliados/Beneficios";
+import Contribucion from "@/features/aliados/Contribucion";
 
 export default function AliadosEstrategicos() {
   return (
@@ -10,6 +11,7 @@ export default function AliadosEstrategicos() {
       <NuestrosAliados />
       <Destacado />
       <Beneficios />
+      <Contribucion />
     </main>
   );
 }
