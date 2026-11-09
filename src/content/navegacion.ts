@@ -23,7 +23,7 @@ export const columnasMenu: SeccionMenu[][] = [
         { texto: "Nuestra historia", href: "#" },
         { texto: "Valores, visión y misión", href: "#" },
         { texto: "Equipo", href: "#" },
-        { texto: "Aliados estratégicos", href: "#" },
+        { texto: "Aliados estratégicos", href: "/aliados-estrategicos" },
       ],
     },
     {
