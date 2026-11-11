@@ -84,3 +84,7 @@ body {
 body:has([data-fondo-footer="amarillo"]) {
   --fondo-tira: var(--color-yellow-100);
 }
+
+body:has(dialog[open]) {
+  overflow: hidden;
+}
