@@ -5,7 +5,7 @@ import Voluntariado from "@/features/equipo/Voluntariado";
 
 export default function Equipo() {
   return (
-    <main className="flex flex-col gap-16 pb-16">
+    <main className="flex flex-col gap-8 pb-16">
       <Hero />
       <NuestroEquipo />
       <EquipoApoyo />

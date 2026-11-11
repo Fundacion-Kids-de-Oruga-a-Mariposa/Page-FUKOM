@@ -26,9 +26,9 @@ export default function Voluntariado() {
         <h2 className="font-heading text-[56px]/16 font-extrabold text-neutral-1000">
           {titulo}
         </h2>
-        <p className="text-[28px]/9 font-medium text-[#858585]">
+        {/* <p className="text-[28px]/9 font-medium text-[#858585]">
           {descripcion}
-        </p>
+        </p> */}
       </div>
 
       <div className="flex h-112.5 px-10">
