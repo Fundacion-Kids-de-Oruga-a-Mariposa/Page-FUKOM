@@ -13,10 +13,6 @@ const iconos = {
     src: "/images/equipo/voluntariado/corazon.svg",
     posicion: "left-[8.71px] top-[6.37px] h-[39.075px] w-[34.443px]",
   },
-  mariposa: {
-    src: "/images/equipo/voluntariado/mariposa.svg",
-    posicion: "left-[7.69%] top-[5.77%] h-[87.1%] w-[86.54%]",
-  },
 };
 
 export default function Voluntariado() {
