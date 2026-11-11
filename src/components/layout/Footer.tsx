@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <div className="relative mt-auto">
       <TiraOndulada />
-      <footer className="bg-primary p-12">
+      <footer className="-mt-px bg-primary p-12">
         <div className="mx-auto flex max-w-[1344px] flex-col gap-7 rounded-24 bg-white px-12 pb-7 pt-10">
           <div className="flex">
             <div className="flex flex-1 flex-col gap-4">
