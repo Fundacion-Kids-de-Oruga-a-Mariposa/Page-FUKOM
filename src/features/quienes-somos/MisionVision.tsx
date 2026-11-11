@@ -10,7 +10,7 @@ const franjas = {
 
 export default function MisionVision() {
   return (
-    <section className="flex items-center gap-6 p-10">
+    <section id="mision-vision" className="flex items-center gap-6 p-10">
       <div className="flex flex-1 flex-col justify-center gap-6">
         {items.map(({ color, titulo, descripcion }) => (
           <article

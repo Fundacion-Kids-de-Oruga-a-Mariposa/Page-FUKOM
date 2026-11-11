@@ -13,7 +13,7 @@ const fondos = {
 
 export default function Valores() {
   return (
-    <section className="flex flex-col gap-8 p-10">
+    <section id="valores" className="flex flex-col gap-8 p-10">
       <h2 className="font-heading text-[56px]/16 font-extrabold text-neutral-1000">
         {titulo}
       </h2>

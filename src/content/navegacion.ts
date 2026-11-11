@@ -21,9 +21,9 @@ export const columnasMenu: SeccionMenu[][] = [
       color: "text-yellow-200",
       enlaces: [
         { texto: "Nuestra historia", href: "/quienes-somos" },
-        { texto: "Valores, visión y misión", href: "#" },
+        { texto: "Valores, visión y misión", href: "/quienes-somos#valores" },
         { texto: "Equipo", href: "/equipo" },
-        { texto: "Aliados estratégicos", href: "#" },
+        { texto: "Aliados estratégicos", href: "/aliados-estrategicos" },
       ],
     },
     {

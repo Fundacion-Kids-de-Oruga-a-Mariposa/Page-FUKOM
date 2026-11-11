@@ -90,7 +90,7 @@ export const quienesSomos = {
         descripcion:
           "Universidades, empresas e iglesias que caminan con nosotros.",
         boton: "Ver aliados",
-        href: "#",
+        href: "/aliados-estrategicos",
       },
     ],
   },
