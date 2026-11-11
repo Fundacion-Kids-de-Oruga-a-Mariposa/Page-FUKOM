@@ -70,7 +70,6 @@ export const equipo = {
       beneficios: [
         { icono: "estrella", texto: "Certificación de voluntariado" },
         { icono: "corazon", texto: "Experiencia de campo en el territorio" },
-        { icono: "mariposa", texto: "Certificación de voluntariado" },
       ],
       boton: "Quiero ser voluntario",
       href: "#",

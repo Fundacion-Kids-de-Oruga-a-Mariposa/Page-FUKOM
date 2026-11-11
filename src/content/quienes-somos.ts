@@ -83,7 +83,7 @@ export const quienesSomos = {
         descripcion:
           "Conoce a las personas que hacen posible la transformación.",
         boton: "Ver equipo",
-        href: "/equipo",
+        href: "/equipo#nuestro-equipo",
       },
       {
         titulo: "Aliados",

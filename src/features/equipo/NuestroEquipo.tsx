@@ -17,7 +17,7 @@ export default function NuestroEquipo() {
   };
 
   return (
-    <section className="flex flex-col gap-8 px-10">
+    <section id="nuestro-equipo" className="flex flex-col gap-8 px-10">
       <h2 className="font-heading text-[56px]/16 font-extrabold text-neutral-1000">
         {titulo}
       </h2>
