@@ -41,7 +41,7 @@ export const columnasMenu: SeccionMenu[][] = [
       anchoIcono: 33,
       color: "text-secondary",
       enlaces: [
-        { texto: "Cómo lo hacemos", href: "#" },
+        { texto: "Cómo lo hacemos", href: "/que-hacemos" },
         { texto: "Programas", href: "#" },
         { texto: "Servicios", href: "#" },
       ],
