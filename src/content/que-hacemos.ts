@@ -168,4 +168,11 @@ export const queHacemos = {
       },
     ],
   },
+  servicios: {
+    titulo: "Nuestros servicios",
+    descripcion:
+      "Ofrecemos a las organizaciones proyectos, consultorias, formación y voluntariado corporativo.",
+    boton: "Ver servicios",
+    href: "#",
+  },
 } as const;

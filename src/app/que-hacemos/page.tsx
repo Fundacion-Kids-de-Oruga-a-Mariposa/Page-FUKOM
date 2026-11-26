@@ -3,6 +3,7 @@ import Ecosistema from "@/features/que-hacemos/Ecosistema";
 import Diferentes from "@/features/que-hacemos/Diferentes";
 import Metodologia from "@/features/que-hacemos/Metodologia";
 import Sabado from "@/features/que-hacemos/Sabado";
+import Servicios from "@/features/que-hacemos/Servicios";
 
 export default function QueHacemos() {
   return (
@@ -12,6 +13,7 @@ export default function QueHacemos() {
       <Diferentes />
       <Metodologia />
       <Sabado />
+      <Servicios />
     </main>
   );
 }
