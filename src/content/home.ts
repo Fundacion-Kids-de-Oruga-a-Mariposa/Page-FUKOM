@@ -119,7 +119,7 @@ export const home = {
         descripcion:
           "Niños y jóvenes exploran matemáticas, STEAM y arte cinético, y aprenden a gestionar su vida.",
         destacado: true,
-        href: "#",
+        href: "/programas/pintando-mi-futuro",
       },
       {
         titulo: "Fukomath",
