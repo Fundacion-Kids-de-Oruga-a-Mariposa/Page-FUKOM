@@ -118,4 +118,54 @@ export const queHacemos = {
       },
     ],
   },
+  sabado: {
+    titulo: "Un sábado de transformación",
+    momentos: [
+      {
+        numero: "01",
+        destacado: "12:30 p. m. · Llegada y acogida.",
+        texto: "Recibimos a niñas, niños y cuidadores en Ciudad Bolívar.",
+      },
+      {
+        numero: "02",
+        destacado: "FUKOM en la Mesa.",
+        texto:
+          "El alimento compartido es punto de encuentro, convivencia y nivelación de energía.",
+      },
+      {
+        numero: "03",
+        destacado: "FUKOMATH / STEAM.",
+        texto:
+          "Trabajo cognitivo, metodologías activas y construcción de arte cinético.",
+      },
+      {
+        numero: "04",
+        destacado: "FUKOM VIDA.",
+        texto:
+          "Formación en valores, administración integral de la vida y espiritualidad.",
+      },
+    ],
+    participantes: {
+      cifra: "40",
+      texto: "participantes en grupos rotativos",
+    },
+    datos: [
+      {
+        etiqueta: "DÓNDE",
+        texto: "Soacha y sector Los Alpes, Ciudad Bolívar",
+        icono: "/images/que-hacemos/sabado/donde.svg",
+      },
+      {
+        etiqueta: "PARA QUIÉN",
+        texto: "Niños y niñas de 2 a 18 años y sus familias",
+        icono: "/images/que-hacemos/sabado/para-quien.svg",
+      },
+      {
+        etiqueta: "ESTADO ACTUAL",
+        texto:
+          "Fase de consolidación y fortalecimiento metodológico, con una fase piloto de Proyección Productiva.",
+        icono: "/images/que-hacemos/sabado/estado-actual.svg",
+      },
+    ],
+  },
 } as const;

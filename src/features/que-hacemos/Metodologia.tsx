@@ -47,7 +47,7 @@ export default function Metodologia() {
         <div className="relative">
           <div
             aria-hidden="true"
-            className="absolute inset-x-21.25 top-22 h-0.5 -translate-y-px bg-neutral-800"
+            className="absolute inset-x-[calc(100%/14)] top-22 h-0.5 -translate-y-px bg-neutral-800"
           />
           <div role="tablist" className="relative flex">
             {pasos.map((item, i) => {
